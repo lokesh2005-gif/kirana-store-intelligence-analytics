@@ -1,0 +1,81 @@
+product_id,product_name,category,sub_category,brand,unit,cost_price,selling_price,supplier_id
+P0001,Patanjali Cooking Oil,Grocery,Cooking Oil,Patanjali,gram,62.97,71.11,SUP002
+P0002,Tata Butter,Dairy,Butter,Tata,gram,74.96,84.4,SUP005
+P0003,Parle Namkeen,Snacks,Namkeen,Parle,litre,35.71,46.67,SUP012
+P0004,Aashirvaad Tea,Beverages,Tea,Aashirvaad,litre,21.27,27.2,SUP013
+P0005,Tata Toothpaste,Personal Care,Toothpaste,Tata,litre,54.84,71.76,SUP014
+P0006,Nestle Detergent,Household,Detergent,Nestle,packet,171.82,236.34,SUP008
+P0007,ITC Tomato,Vegetables,Tomato,ITC,packet,42.34,46.13,SUP006
+P0008,Dabur Cake,Bakery,Cake,Dabur,packet,21.35,26.45,SUP012
+P0009,Dabur Cooking Oil,Grocery,Cooking Oil,Dabur,kg,69.61,75.59,SUP010
+P0010,Local Brand Curd,Dairy,Curd,Local Brand,litre,54.66,60.37,SUP003
+P0011,Nestle Chocolates,Snacks,Chocolates,Nestle,packet,55.47,70.09,SUP015
+P0012,Dabur Coffee,Beverages,Coffee,Dabur,packet,104.44,129.56,SUP014
+P0013,HUL Soap,Personal Care,Soap,HUL,kg,116.01,159.06,SUP013
+P0014,Nestle Room Freshener,Household,Room Freshener,Nestle,packet,49.58,68.22,SUP002
+P0015,Parle Potato,Vegetables,Potato,Parle,packet,41.01,48.07,SUP004
+P0016,Nestle Rusk,Bakery,Rusk,Nestle,piece,73.16,89.82,SUP003
+P0017,ITC Pulses,Grocery,Pulses,ITC,litre,112.97,122.18,SUP012
+P0018,Local Brand Cheese,Dairy,Cheese,Local Brand,packet,33.72,37.29,SUP012
+P0019,Parle Chocolates,Snacks,Chocolates,Parle,piece,26.27,33.64,SUP006
+P0020,ITC Coffee,Beverages,Coffee,ITC,gram,51.63,67.52,SUP008
+P0021,Aashirvaad Soap,Personal Care,Soap,Aashirvaad,kg,87.43,116.85,SUP003
+P0022,Dabur Dishwash,Household,Dishwash,Dabur,piece,106.83,135.49,SUP010
+P0023,Nestle Onion,Vegetables,Onion,Nestle,piece,42.09,44.6,SUP010
+P0024,Local Brand Rusk,Bakery,Rusk,Local Brand,packet,79.15,98.97,SUP009
+P0025,Dabur Rice,Grocery,Rice,Dabur,kg,47.88,51.27,SUP011
+P0026,Amul Cheese,Dairy,Cheese,Amul,packet,77.08,91.87,SUP002
+P0027,Nestle Namkeen,Snacks,Namkeen,Nestle,litre,46.45,61.79,SUP008
+P0028,Godrej Tea,Beverages,Tea,Godrej,packet,25.0,31.17,SUP009
+P0029,Local Brand Shampoo,Personal Care,Shampoo,Local Brand,kg,45.28,63.94,SUP014
+P0030,Dabur Room Freshener,Household,Room Freshener,Dabur,gram,119.73,154.81,SUP010
+P0031,ITC Potato,Vegetables,Potato,ITC,packet,12.54,13.67,SUP013
+P0032,Local Brand Cake,Bakery,Cake,Local Brand,gram,36.14,44.99,SUP015
+P0033,Parle Rice,Grocery,Rice,Parle,packet,87.38,103.57,SUP008
+P0034,Tata Milk,Dairy,Milk,Tata,packet,53.06,59.19,SUP015
+P0035,HUL Namkeen,Snacks,Namkeen,HUL,kg,45.66,60.68,SUP004
+P0036,Tata Tea,Beverages,Tea,Tata,piece,90.77,118.02,SUP014
+P0037,Local Brand Soap,Personal Care,Soap,Local Brand,litre,111.41,152.4,SUP003
+P0038,Local Brand Cleaning Liquid,Household,Cleaning Liquid,Local Brand,litre,88.41,110.8,SUP005
+P0039,HUL Leafy Greens,Vegetables,Leafy Greens,HUL,gram,14.32,15.09,SUP013
+P0040,Godrej Cake,Bakery,Cake,Godrej,packet,56.37,67.13,SUP007
+P0041,Dabur Cooking Oil,Grocery,Cooking Oil,Dabur,packet,75.77,90.01,SUP008
+P0042,Patanjali Cheese,Dairy,Cheese,Patanjali,kg,37.45,43.19,SUP004
+P0043,Tata Chips,Snacks,Chips,Tata,packet,47.78,60.19,SUP001
+P0044,Parle Coffee,Beverages,Coffee,Parle,litre,25.39,31.42,SUP001
+P0045,Godrej Soap,Personal Care,Soap,Godrej,kg,53.21,75.6,SUP004
+P0046,Aashirvaad Detergent,Household,Detergent,Aashirvaad,packet,149.3,198.92,SUP002
+P0047,Amul Potato,Vegetables,Potato,Amul,piece,44.86,51.79,SUP004
+P0048,Godrej Cake,Bakery,Cake,Godrej,gram,27.13,34.35,SUP010
+P0049,HUL Sugar,Grocery,Sugar,HUL,piece,78.54,92.28,SUP013
+P0050,HUL Butter,Dairy,Butter,HUL,kg,82.73,94.42,SUP002
+P0051,Britannia Chocolates,Snacks,Chocolates,Britannia,piece,15.5,19.52,SUP007
+P0052,Godrej Juices,Beverages,Juices,Godrej,kg,72.66,94.92,SUP011
+P0053,Aashirvaad Soap,Personal Care,Soap,Aashirvaad,piece,175.63,228.48,SUP012
+P0054,Tata Room Freshener,Household,Room Freshener,Tata,litre,101.72,132.67,SUP004
+P0055,Local Brand Potato,Vegetables,Potato,Local Brand,piece,18.88,20.12,SUP003
+P0056,ITC Rusk,Bakery,Rusk,ITC,packet,36.94,47.01,SUP008
+P0057,Tata Wheat Flour,Grocery,Wheat Flour,Tata,piece,59.09,67.21,SUP013
+P0058,Tata Cheese,Dairy,Cheese,Tata,kg,69.21,79.4,SUP011
+P0059,Tata Biscuits,Snacks,Biscuits,Tata,litre,58.59,79.4,SUP003
+P0060,Patanjali Juices,Beverages,Juices,Patanjali,piece,48.99,61.95,SUP004
+P0061,Aashirvaad Hair Oil,Personal Care,Hair Oil,Aashirvaad,litre,77.65,103.82,SUP007
+P0062,Nestle Detergent,Household,Detergent,Nestle,packet,25.9,34.43,SUP015
+P0063,Amul Leafy Greens,Vegetables,Leafy Greens,Amul,piece,30.11,31.82,SUP012
+P0064,ITC Rusk,Bakery,Rusk,ITC,litre,33.11,41.99,SUP005
+P0065,Aashirvaad Wheat Flour,Grocery,Wheat Flour,Aashirvaad,gram,51.56,56.14,SUP012
+P0066,Aashirvaad Cheese,Dairy,Cheese,Aashirvaad,packet,54.26,66.64,SUP001
+P0067,Parle Biscuits,Snacks,Biscuits,Parle,piece,22.1,29.11,SUP009
+P0068,Aashirvaad Coffee,Beverages,Coffee,Aashirvaad,gram,117.82,145.02,SUP002
+P0069,Tata Shampoo,Personal Care,Shampoo,Tata,gram,152.44,205.46,SUP002
+P0070,Nestle Dishwash,Household,Dishwash,Nestle,kg,121.17,161.44,SUP015
+P0071,Parle Potato,Vegetables,Potato,Parle,gram,31.43,33.37,SUP001
+P0072,Nestle Bread,Bakery,Bread,Nestle,gram,69.29,82.57,SUP010
+P0073,Britannia Salt,Grocery,Salt,Britannia,packet,46.79,50.31,SUP004
+P0074,HUL Paneer,Dairy,Paneer,HUL,packet,61.36,72.9,SUP007
+P0075,Dabur Chips,Snacks,Chips,Dabur,packet,10.83,14.04,SUP008
+P0076,Tata Soft Drinks,Beverages,Soft Drinks,Tata,kg,45.58,58.52,SUP008
+P0077,Tata Soap,Personal Care,Soap,Tata,gram,55.51,77.15,SUP004
+P0078,ITC Room Freshener,Household,Room Freshener,ITC,packet,81.88,112.32,SUP015
+P0079,HUL Onion,Vegetables,Onion,HUL,packet,15.5,16.96,SUP005
+P0080,Patanjali Cake,Bakery,Cake,Patanjali,gram,22.38,28.43,SUP012

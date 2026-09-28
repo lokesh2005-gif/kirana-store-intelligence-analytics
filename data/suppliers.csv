@@ -1,0 +1,16 @@
+supplier_id,supplier_name,supplier_location,lead_time_days,supplier_rating
+SUP001,Balaji Traders,Madurai,8,4.0
+SUP002,Sri Agencies,Erode,5,4.3
+SUP003,Om Distributors,Vellore,14,2.6
+SUP004,Om Traders,Salem,12,4.9
+SUP005,Balaji Wholesale,Madurai,9,4.6
+SUP006,Sri Wholesale,Trichy,14,3.0
+SUP007,Kaveri Traders,Vellore,6,3.0
+SUP008,Sri Traders,Coimbatore,8,3.0
+SUP009,Om Distributors,Coimbatore,11,3.3
+SUP010,Amman Wholesale,Erode,4,3.8
+SUP011,Sri Wholesale,Coimbatore,8,3.6
+SUP012,Om Wholesale,Vellore,12,3.2
+SUP013,Kaveri Distributors,Vellore,12,4.0
+SUP014,Kaveri Wholesale,Salem,9,2.8
+SUP015,Sai Traders,Chennai,6,3.2

@@ -1,0 +1,12 @@
+# Generated data files
+# These are reproducible from the Python pipeline and should not be committed.
+data/sales_enriched.csv
+data/cleaned_sales.csv
+data/demand_summary.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
